@@ -1,2 +1,2 @@
 # app-landing-page-example
-Example of an phone application landing page.
+Example of a phone application landing page.
