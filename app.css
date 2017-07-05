@@ -1,3 +1,7 @@
+body {
+  position: relative;
+}
+
 .jumbotron {
   background: url("http://source.unsplash.com/EKIyHUrUHWU");
   background-repeat: no-repeat;
@@ -16,4 +20,30 @@
 
 #cards {
   margin-top: 15vh;
+  margin-bottom: 15vh;
+}
+
+#downloadArea {
+  background: #1ceaea;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
+
+#downloadBtn {
+  background: #101010;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#downloadBtnTxt {
+  float: right;
+  line-height: 1;
+  margin-left: 10px;
+}
+
+#phoneIcon {
+  font-size: 60px;
 }
